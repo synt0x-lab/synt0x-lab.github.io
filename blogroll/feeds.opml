@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title>synt0x blogroll</title>
+    <ownerName>synt0x</ownerName>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Research and offensive security" title="Research and offensive security">
+      <outline type="rss" text="Google Project Zero" title="Google Project Zero" xmlUrl="https://projectzero.google/feed.xml" htmlUrl="https://projectzero.google/" description="Root-cause analyses that walk from the bug all the way to a working exploit." />
+      <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research" description="Where new classes of web attacks, like request smuggling and cache poisoning, tend to be published first." />
+      <outline type="rss" text="watchTowr Labs" title="watchTowr Labs" xmlUrl="https://labs.watchtowr.com/rss/" htmlUrl="https://labs.watchtowr.com/" description="N-day analyses of edge devices and enterprise software, built on patch diffing." />
+      <outline type="rss" text="GitHub Security Lab" title="GitHub Security Lab" xmlUrl="https://github.blog/tag/github-security-lab/feed/" htmlUrl="https://github.blog/tag/github-security-lab/" description="Variant analysis with CodeQL: how one bug turns into a query that finds its siblings." />
+      <outline type="rss" text="Trail of Bits" title="Trail of Bits" xmlUrl="https://blog.trailofbits.com/index.xml" htmlUrl="https://blog.trailofbits.com/" description="Practical lessons from audits, fuzzing and building static analysis tools." />
+      <outline type="rss" text="Doyensec" title="Doyensec" xmlUrl="https://blog.doyensec.com/atom.xml" htmlUrl="https://blog.doyensec.com/" description="Application security research, with a lot of web and Electron vulnerabilities." />
+      <outline type="rss" text="SpecterOps" title="SpecterOps" xmlUrl="https://specterops.io/blog/feed/" htmlUrl="https://specterops.io/blog/" description="Attack paths through Active Directory and identity systems, and the thinking behind BloodHound." />
+      <outline type="rss" text="Orange Tsai" title="Orange Tsai" xmlUrl="https://blog.orange.tw/atom.xml" htmlUrl="https://blog.orange.tw/" description="Posts rarely, but each one lays out a complete attack chain against widely used software." />
+    </outline>
+    <outline text="Application security and cryptography" title="Application security and cryptography">
+      <outline type="rss" text="Filippo Valsorda" title="Filippo Valsorda" xmlUrl="https://words.filippo.io/rss/" htmlUrl="https://words.filippo.io/" description="Go cryptography explained by one of its maintainers, including the reasoning behind API decisions." />
+      <outline type="rss" text="Latacora" title="Latacora" xmlUrl="https://www.latacora.com/blog/index.xml" htmlUrl="https://www.latacora.com/blog/" description="Short, opinionated cryptography and security advice that ends in a decision, not a survey." />
+      <outline type="rss" text="Simon Willison on prompt injection" title="Simon Willison on prompt injection" xmlUrl="https://simonwillison.net/tags/prompt-injection.atom" htmlUrl="https://simonwillison.net/tags/prompt-injection/" description="The most consistent running record of prompt injection: new attacks, failed defenses, and why the problem is hard." />
+      <outline type="rss" text="Google Security Blog" title="Google Security Blog" xmlUrl="https://blog.google/security/rss/" htmlUrl="https://blog.google/security/" description="Platform-scale defensive decisions and the reasons behind them." />
+    </outline>
+    <outline text="News" title="News">
+      <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/" description="Fast daily coverage of new vulnerabilities, campaigns and breaches, useful for knowing what to look into first." />
+    </outline>
+    <outline text="Newsletters" title="Newsletters">
+      <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/" description="A weekly roundup of AppSec, cloud and AI security, with a short comment on each link." />
+      <outline type="rss" text="Risky Bulletin" title="Risky Bulletin" xmlUrl="https://news.risky.biz/rss/" htmlUrl="https://news.risky.biz/" description="The week’s security news, condensed and filtered by people who know what matters." />
+      <outline type="rss" text="CloudSecList" title="CloudSecList" xmlUrl="https://cloudseclist.com/feed.xml" htmlUrl="https://cloudseclist.com/" description="A curated list of cloud security research, tools and incidents." />
+      <outline type="rss" text="Detection Engineering Weekly" title="Detection Engineering Weekly" xmlUrl="https://www.detectionengineering.net/feed" htmlUrl="https://www.detectionengineering.net/" description="The blue team side: detection logic, rule writing and how detection programs are run." />
+    </outline>
+  </body>
+</opml>
