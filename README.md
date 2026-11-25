@@ -1,6 +1,6 @@
 # synt0x
 
-**→ [synt0x-lab.github.io](https://synt0x-lab.github.io/)**
+**→ [synt0x.com](https://synt0x.com/)**
 
 Hi, I'm synt0x. I spent years building software before I moved to breaking and securing it, and this is where I write things down: writeups, research, the checklists I actually use in reviews, and small security tools that run in your browser.
 
@@ -25,6 +25,6 @@ A security site should practice what it preaches, so I held this one to the same
 | What                                 | Where                                                                                  |
 | ------------------------------------ | -------------------------------------------------------------------------------------- |
 | Typo, broken link, rendering problem | [open an issue](../../issues) in this repository                                       |
-| Security issue in the site or a tool | see [`security.txt`](https://synt0x-lab.github.io/.well-known/security.txt) (RFC 9116) |
+| Security issue in the site or a tool | see [`security.txt`](https://synt0x.com/.well-known/security.txt) (RFC 9116) |
 
 If you found a security issue, please don't put it in a public issue. Use the contact in `security.txt`, and I'll get back to you.
