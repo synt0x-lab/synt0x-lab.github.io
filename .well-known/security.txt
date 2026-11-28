@@ -1,5 +1,5 @@
 # security.txt (RFC 9116) for synt0x
 Contact: mailto:synt0xlab@gmail.com
-Expires: 2027-05-27T08:04:06Z
+Expires: 2027-05-28T13:03:29Z
 Preferred-Languages: en
 Canonical: https://synt0x.com/.well-known/security.txt
